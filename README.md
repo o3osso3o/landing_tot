@@ -15,6 +15,14 @@ npm run dev
 npm run build
 ```
 
+## Deploy
+
+GitHub Pages deployment runs automatically on every push to `main`.
+
+Production URL:
+
+https://o3osso3o.github.io/landing_tot/
+
 ## Images
 
 이미지 경로는 `src/App.jsx`의 `STREAMING_IMAGE_PATHS`에서 관리합니다.
